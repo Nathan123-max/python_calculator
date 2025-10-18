@@ -9,7 +9,7 @@ This is a simple **menu-driven calculator** written in **Python** that can perfo
 - ➗ Division (with zero-division check)  
 - 🔼 Power (exponentiation)  
 - ♻️ Modulus  
-- 🧮 Floor Division  
+- 🧮 Floor Division is available
 - 📊 Average of multiple numbers  
 - 🔺 Maximum and Minimum values  
 - 🚪 Exit option  
